@@ -3,12 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/presentacion/CatalogoPeliculasPresentacion.java</file>
             <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/excepciones/AccesoDatosEx.java</file>
+            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/datos/AccesoDatosImp.java</file>
+            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/servicio/IcatalogoPeliculas.java</file>
             <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/excepciones/EscrituraDatosEx.java</file>
+            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/peliculas.txt</file>
             <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/excepciones/LecturaDatosEx.java</file>
             <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/datos/IAccesoDatos.java</file>
             <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/domain/Pelicula.java</file>
-            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/datos/AccesoDatosImpl.java</file>
+            <file>file:/D:/Program%20Files/Java/Programacion/CatalogoPeliculas/src/mx/com/gm/peliculas/servicio/CatalogoPeliculasImpl.java</file>
         </group>
     </open-files>
 </project-private>
